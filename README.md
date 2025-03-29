@@ -28,18 +28,3 @@ This Power BI report provides insights into sales performance using data from th
 1. Open Power BI Desktop.
 2. Import `orders.xlsx` using the "Get Data" option.
 3. Set up relationships (if necessary) between columns (e.g., order ID, product, and region).
-
-## Customizations
-- Modify visuals to suit your needs or add new metrics using DAX measures.
-
----
-
-### Tips for Viewing:
-- **Bold**: `**Text**`  
-- **Italic**: `*Text*`  
-- **Lists**: `- Item` or `1. Item`
-- **Code**: Use backticks for code snippets like `orders.xlsx` or `DAX` functions.
-- **Headings**: Use `#` for large headings and `##` for subheadings.
-
----
-
